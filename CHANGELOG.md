@@ -1,6 +1,8 @@
 # Changelog
 
 ### master
+- bugfix: "auto restore" feature stopped working
+- bugfix: prevent race condition when auto-saving with locks (@v9v)
 
 ### v3.1.0, 2015-03-14
 - properly quote scripts
